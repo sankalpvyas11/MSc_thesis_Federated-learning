@@ -27,9 +27,9 @@ This repository contains a Jupyter Notebook, `HAM10000_flipped_+_final_code.ipyn
 
 To use this repository:
 
-1. Clone the repository to your local machine.
-2. Ensure the necessary software (Python, PyTorch, Jupyter Notebook) is installed.
-3. Change the path of the excel file `hmnist_28_28_L.csv` to match the path of the code.
+1. Download the dataset from [Skin Cancer MNIST: HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000?select=hmnist_28_28_L.csv), the file with the name `hmnist_28_28_L.csv`.
+2. Clone the repository to your local machine.
+3. Ensure the necessary software (Python, PyTorch, Jupyter Notebook) is installed.
 4. Open `HAM10000_flipped_+_final_code.ipynb` in Jupyter Notebook to view the code and related explanations.
 
 ## Contributing
